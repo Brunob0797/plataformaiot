@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 0 auto;
+	background-image:url(images/bg.jpg);
+	background-repeat:no-repeat;
+	}
+	
+.geral{
+	width:500px;
+	height: auto;
+	text-align: center;
+	margin: 0 auto;
+	background-color:rgba(62, 62, 62, 0.5);
+	margin-top:80px;
+	border-radius: 6px;
+	}
+	
+.geral button{
+	background-color:transparent;
+	border:0 none;
+	float:none;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:auto;
+	margin-top: auto;
+	
+	}
+
+	
+.direita{
+	width: 200px;
+	height: 300px;
+	float:right;
+	background-color:rgba(62, 62, 62, 0.5);
+	text-align: center;
+	margin: 0 auto;
+	margin-right:5px;
+	border-radius:6px;
+	}
+	
+.tabela-centro td{
+	text-decoration:none;
+	height:50px;
+	width:auto;
+	background-color:#C8C8C8;
+	float:none;
+	text-align:left;
+	margin-bottom:25px;
+	border:none;
+	}
+	
+table {background:#C8C8C8;border:0}
+
